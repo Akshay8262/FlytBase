@@ -28,8 +28,8 @@ A Python-based system for detecting and visualizing potential conflicts between 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drone-deconfliction.git
-   cd drone-deconfliction
+   git clone https://github.com/Akshay8262/FlytBase
+   cd flybase
    ```
 
 2. Install required dependencies:
